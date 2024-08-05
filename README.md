@@ -2,7 +2,7 @@
 
 **Fullstack Developer, Application Security Enthusiast.**
 
-🌐 [dhruv.tech](https://dhruv.tech) | 
+🌐 [bio.dhruv.tech](https://bio.dhruv.tech) | 
 🔗 [LinkedIn](https://linkedin.com/in/dhruvmalik) | 
 📨 email@dhruv.tech
 
